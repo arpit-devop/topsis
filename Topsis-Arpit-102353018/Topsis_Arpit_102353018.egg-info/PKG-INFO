@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: Topsis-Arpit-102353018
+Version: 1.0.0
+Summary: Implementation of TOPSIS method as a Python package
+Author: Arpit
+Author-email: agarwalarpit485@gmail.com
+Requires-Python: >=3.7
+License-File: license.txt
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
